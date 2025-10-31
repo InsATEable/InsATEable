@@ -8,7 +8,6 @@ Any decision to acquire the Token is made entirely at your own risk.
 
 Meme / Art Project Notice
 
-
 $ATE is a meme coin and artistic project with no intrinsic value or expectation of financial return.
 It is intended purely for entertainment and creative expression.
 There is no formal team or roadmap, and the project is not affiliated with any other token, company, or artist.
