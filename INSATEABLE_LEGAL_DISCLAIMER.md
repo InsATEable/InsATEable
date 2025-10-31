@@ -1,4 +1,4 @@
-Legal & Artistic Disclaimer
+Legal Disclaimer
 
 The information provided about InsATEable (the “Token” $ATE) is for informational purposes only.  
 It does not constitute financial, investment, or legal advice and should not be considered an offer or solicitation to buy or sell the Token.  
@@ -6,12 +6,15 @@ Any decision to acquire the Token is made entirely at your own risk.
 
 ---
 
-Meme / Art Project Notice
+Meme Coin Notice
 
-$ATE is a meme coin and artistic project with no intrinsic value or expectation of financial return.
-It is intended purely for entertainment and creative expression.
-There is no formal team or roadmap, and the project is not affiliated with any other token, company, or artist.
-Any similarities in name, branding, or imagery to other projects are purely coincidental.
+$ATE is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. The coin is completely useless and intended for entertainment purposes only.
+
+---
+
+No Association Disclaimer
+
+InsATEable ($ATE) has no affiliation, endorsement, or association with any artists, brands, individuals, companies, or entities. Any similarities in names, themes, or references are purely coincidental and intended for parody and entertainment purposes only.
 
 ---
 
