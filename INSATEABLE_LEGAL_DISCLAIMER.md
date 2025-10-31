@@ -14,15 +14,6 @@ Any similarities in name, branding, or imagery to other projects are purely coin
 
 ---
 
-Meme / Art Project Notice
-
-$ATE is a meme coin and artistic project with no intrinsic value or expectation of financial return.
-It is intended purely for entertainment and creative expression.
-There is no formal team or roadmap, and the project is not affiliated with any other token, company, or artist.
-Any similarities in name, branding, or imagery to other projects are purely coincidental.
-
----
-
 Investment Risks
 
 Cryptocurrencies are highly volatile. Prices can fluctuate rapidly, and you may lose your entire investment.  
