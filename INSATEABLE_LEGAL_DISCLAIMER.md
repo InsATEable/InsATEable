@@ -40,18 +40,6 @@ Risks include software bugs, security vulnerabilities, network issues, or hacks.
 
 ---
 
-Market Activity Disclaimer
-
-All market activity and price movements of InsATEable ($ATE) occur independently of the project creators.
-The creators do not have direct control over the market price and are not responsible for the behavior of buyers, sellers, or third parties.
-
-The creators may hold or sell their own tokens, without engaging in activities aimed at manipulating the market price.
-Any volatility or price changes are primarily the result of independent third-party trading activity and are beyond the creators’ control.
-
-The creators assume no responsibility or liability for losses arising from market movements, speculative trading, or decisions made by other participants.
-
----
-
 No Liability
 
 We assume no liability for losses or damages arising from the use, purchase, or sale of the Token.
