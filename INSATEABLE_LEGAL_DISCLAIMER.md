@@ -5,6 +5,7 @@ It does not constitute financial, investment, or legal advice and should not be 
 Any decision to acquire the Token is made entirely at your own risk.
 
 ---
+
 Meme / Art Project Notice
 
 $ATE is a meme coin and artistic project with no intrinsic value or expectation of financial return.
